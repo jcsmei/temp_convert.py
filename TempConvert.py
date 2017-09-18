@@ -3,7 +3,7 @@
 """A simple temperature converter."""
 
 
-def temp_convert(temp,):
+def temp_convert(temp):
     """Uses arithmetic to converter temperature.
 
     Args:
